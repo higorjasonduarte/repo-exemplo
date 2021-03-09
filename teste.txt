@@ -27,5 +27,7 @@ git config --global user.email ' seu email '   ( reconhecer o email )
 
 git config --global user.name ' usuario '      ( reconhecer usuario )
 
+git push (  é usado para enviar conteúdo do repositório local para um repositório remoto )
+
 
 
