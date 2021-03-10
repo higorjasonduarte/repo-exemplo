@@ -1,0 +1,33 @@
+SUBIR PROJETO NO REPOSITÓRIO
+
+git status ( saber andamento e se tem algo a ser atualizado, se ficar algo em vermelho e porque teve modificação )
+git add . ( apos vc fazer modificação no seu codigo use esse comando para subir as alterações no codigo )
+git commit -m " nome do seu arquivo "  ( esse comando vc coloca o nome no seu arquivo que ira subir para a nunvem, lembrando não precisa das aspas )
+git push origin " seu nome de adm "  ( coloque o seu nome que ira ficar salvo no git, lembrando não precisa de usar as aspas )
+
+
+FAZENDO CLONE NORMAL
+
+git clone --single-branch --branch jvgit status "seu nome que vc salvou no repositorio" https:// "e a url do site do git que vc fara o clone"
+
+
+Muito usados
+
+git pull ( atualiza seu repositorio )
+
+git branch -a ( listas as branchs )
+
+git branch -d NomeDaBranch ( deleta a branch )
+
+git checkout nomeDaBranch  ( acessa a branch )
+
+git -b NomeDaBranch ( cria uma nova branc )
+
+git config --global user.email ' seu email '   ( reconhecer o email )
+
+git config --global user.name ' usuario '      ( reconhecer usuario )
+
+git push (  é usado para enviar conteúdo do repositório local para um repositório remoto )
+
+
+
